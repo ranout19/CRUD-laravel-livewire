@@ -1,4 +1,4 @@
-# CRUD-laravel-livewire
+# CRUD laravel livewire
 
 Cara instalasi :
 - Clone repository ke local
